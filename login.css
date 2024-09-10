@@ -1,9 +1,9 @@
 body{
   background-color: gray;
 }
-h2{
-  float:right;
+.signinfrm{
+  float: right;
 }
-form{
-  float:right;
+.signinfrm, input-type{
+  border: 25%;
 }
