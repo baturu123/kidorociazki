@@ -9,5 +9,7 @@ body{
   border: 1px solid black 25%;
 }
 .userlog{
-  border-radius:50px;
+  border-radius: 50px;
+  width: 50;
+  hegiht: 50;
 }
