@@ -13,8 +13,8 @@ input[type=text], select {
   box-sizing: border-box;
   display: inline-block;
   border-radius: 50px;
-  width: 50px;
-  hegiht: 50px;
+  width: 10%;
+  hegiht: 10%;
   background-color: lightblue;
 }
 
