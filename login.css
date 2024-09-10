@@ -15,6 +15,7 @@ input[type=text], select {
   border-radius: 50px;
   width: 50px;
   hegiht: 50px;
+  background-color: lightblue;
 }
 
 
