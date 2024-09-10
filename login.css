@@ -4,7 +4,6 @@ body{
 }
 .signinfrm{
   float: right;
-  padding-left: 100px;
 }
 .signinfrm, input-type{
   border: 1px solid black 25%;
