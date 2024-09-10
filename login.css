@@ -5,8 +5,9 @@ body{
 .signinfrm{
   float: right;
 }
-.signinfrm, input-type{
+.signinfrm{
   border: 1px solid black 25%;
+  margin-top: 5%;
 }
 
 input[type=text], select {
