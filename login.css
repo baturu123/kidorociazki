@@ -10,7 +10,7 @@ body{
   margin-top: 5%;
 }
 
-input[type=text], select {
+input[type=text] {
   box-sizing: border-box;
   display: inline-block;
   border-radius: 50%;
