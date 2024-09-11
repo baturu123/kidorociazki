@@ -18,5 +18,8 @@ input[type=text], select {
   hegiht: 10%;
   background-color: lightblue;
 }
+.loginform{
+  background-color: white;
+}
 
 
