@@ -7,6 +7,7 @@ body{
   border: 1px solid black 25%;
   margin-top: 5%;
   border-color: green;
+  position: center;
 }
 
 input[type=text] {
