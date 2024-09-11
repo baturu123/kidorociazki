@@ -4,12 +4,9 @@ body{
 }
 .signinfrm{
   float: right;
-  background-color: #ffo032;
-}
-.signinfrm{
   border: 1px solid black 25%;
   margin-top: 5%;
-  display: none;
+  border-color: green;
 }
 
 input[type=text] {
